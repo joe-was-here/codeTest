@@ -64,7 +64,9 @@ Example: If the current date is 3/11/14 and the user picks Wednesday then 3/12/1
 
 Validation: The user must select an option.
 
-Requirements: The list should include 8 options. A default option prompting the user to select an option, and seven colors of your choice (the colors should be in string format i.e. red, green blue, etc.). Once the user has selected a color print the hex value of the selected color in the selected color, and make a 15px by 15px solid square that is the selected color.
+Requirements: The list should include 8 options. A default option prompting the user to select an option, and seven colors of your choice (the colors should be in string format i.e. red, green blue, etc.). Once the user has selected a color print the hex value of the selected color under selected color, and make a 15px by 15px solid square that is the selected color.
+
+Example: User selects blue, should print "#0000ff" and a 15px by 15px square that is the color blue.
 
 ### Submit Button
 
